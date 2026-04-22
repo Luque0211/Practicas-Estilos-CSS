@@ -1,0 +1,17 @@
+/*---Ejercicio1---*/
+#ej1 p{
+    color: blue;
+}
+
+/*---Ejercicio2---*/
+
+#ej2 .destacado{
+    background-color: yellow;
+    font-weight: bold;
+}
+
+/*---Ejercicio3---*/
+
+#ej3 #titulo{
+    color: aquamarine;
+}

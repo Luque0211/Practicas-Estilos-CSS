@@ -1,0 +1,28 @@
+.layout {
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  min-height: 100vh;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px;
+  background: lightblue;
+}
+
+nav {
+  display: flex;
+  gap: 16px;
+}
+
+main {
+  padding: 16px;
+  background: lightgreen;
+}
+
+footer {
+  padding: 16px;
+  background: lightcoral;
+}

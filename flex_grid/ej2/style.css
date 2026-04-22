@@ -1,0 +1,11 @@
+.menu {
+  display: flex; 
+  justify-content: center;
+  align-items: baseline;
+  height: 300px;                  
+}
+
+.menu a {
+  color: rgb(221, 107, 107);
+  text-decoration: none;
+}

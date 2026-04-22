@@ -1,0 +1,11 @@
+.contenedor {
+  display: flex;
+  flex-wrap: wrap;     
+  gap: 16px;           
+}
+
+.card {
+  width: 200px;        
+  height: 120px;
+  background: red;
+}
